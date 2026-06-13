@@ -20,7 +20,9 @@ This repository documents the first setup step for the 100Hires portfolio projec
 6. Committed the project files with Git.
 7. Created a public GitHub repository and pushed the project.
 
-## Issues and Solutions
+## Issue and Solution
+
+During the setup process, I found a few small issues and solved them as described below.
 
 ### Finding the correct Codex extension
 
