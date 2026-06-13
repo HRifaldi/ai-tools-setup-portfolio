@@ -13,8 +13,8 @@ This repository documents the first setup step for the 100Hires portfolio projec
 ## Steps Completed
 
 1. Installed Cursor IDE.
-2. Installed and verified the Claude Code extension in Cursor.
-3. Installed and verified the Codex extension in Cursor.
+2. Installed, logged in to, and verified the Claude Code extension in Cursor.
+3. Installed, logged in to, and verified the Codex extension in Cursor.
 4. Created a local Git repository for this setup project.
 5. Created this `README.md` file to document the setup work.
 6. Committed the project files with Git.
